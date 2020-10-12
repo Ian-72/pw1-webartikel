@@ -8,15 +8,15 @@ Bertemakan "Tentang dunia opensource"
 * 9 artikel
 
 ### DAFTAR ARTIKEL :
-* Penjelasan mengenai open source
-* 17 macam distro linux beserta pengertiannya
-* Sejarah linux
-* Pengertian Kernel
-* Mengenal apa itu gnu
-* 5 Keuntungan menggunakan software open source
-* Bekerjasama dengan dengan creative common Indonesia, Gimpscape Indonesia adakan kontes adaptasi karya
-* OpenHMD: proyek sumber kode terbuka untuk pengembangan virtual reality (VR)
-* Berkenalan dengan Pak Sokibi: cerita beliau membagikan pengetahuan menggunakan LibreOffice dan aplikasi FOSS
+1. Penjelasan mengenai open source
+2. 17 macam distro linux beserta pengertiannya
+3. Sejarah linux
+4. Pengertian Kernel
+5. Mengenal apa itu gnu
+6. 5 Keuntungan menggunakan software open source
+7. Bekerjasama dengan dengan creative common Indonesia, Gimpscape Indonesia adakan kontes adaptasi karya
+8. OpenHMD: proyek sumber kode terbuka untuk pengembangan virtual reality (VR)
+9. Berkenalan dengan Pak Sokibi: cerita beliau membagikan pengetahuan menggunakan LibreOffice dan aplikasi FOSS
 
 ### FITUR : 
 * Kolom pencarian (hanya tampilan saja)
