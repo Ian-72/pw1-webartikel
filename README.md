@@ -1,13 +1,11 @@
-# pw1-webartikel
+# Project Web Matkul Pemrogram Web Client
+Bertemakan "Tentang Dunia Opensource"
 
-## project web matkul pemrogram web client
-Bertemakan "Tentang dunia opensource"
-
-### JUMLAH HALAMAN WEB : 
+## JUMLAH HALAMAN : 
 * 1 index
 * 9 artikel
 
-### DAFTAR ARTIKEL :
+## DAFTAR ARTIKEL :
 1. Penjelasan mengenai open source
 2. 17 macam distro linux beserta pengertiannya
 3. Sejarah linux
@@ -18,9 +16,9 @@ Bertemakan "Tentang dunia opensource"
 8. OpenHMD: proyek sumber kode terbuka untuk pengembangan virtual reality (VR)
 9. Berkenalan dengan Pak Sokibi: cerita beliau membagikan pengetahuan menggunakan LibreOffice dan aplikasi FOSS
 
-### FITUR : 
+## FITUR : 
 * Kolom pencarian (hanya tampilan saja)
 * Box artikel
 * Halaman artikel
 
-> HARI & TANGGAL TERAKHIR MODIFIKASI : Sabtu 16 Mei 2020
+> HARI & TANGGAL MODIFIKASI TERAKHIR : Sabtu 16 Mei 2020
