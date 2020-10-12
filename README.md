@@ -1,7 +1,7 @@
 # pw1-webartikel
 
-## web project matkul pemrogram web client
-Atikel ini bertema tentang dunia opensource
+## project web matkul pemrogram web client
+Bertemakan "Tentang dunia opensource"
 
 ### JUMLAH HALAMAN WEB : 
 * 1 index
